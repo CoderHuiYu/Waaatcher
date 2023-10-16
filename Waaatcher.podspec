@@ -23,7 +23,7 @@ Pod::Spec.new do |s|
     sp.source_files = 'Source/Rx/**/**'
     
     sp.dependency 'Waaatcher/Core'
-    sp.dependency 'RxSwift', '~> 5.0'
+    sp.dependency 'RxSwift'
   end
   
 end
